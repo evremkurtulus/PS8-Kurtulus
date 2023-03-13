@@ -1,0 +1,15 @@
+shoes
+12
+63
+hats
+15
+44
+scarves
+22
+8
+gloves
+13
+41
+extras
+8
+2
